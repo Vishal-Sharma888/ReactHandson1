@@ -1,0 +1,48 @@
+body{
+    background: linear-gradient(skyblue,lightpink,white);
+}
+.header{
+    text-align: center;
+    text-shadow: 5px 3px red;
+}
+.btn{
+    background-color: skyblue;
+    color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 500px;
+    height: 50px;
+    margin: 80px;
+    font-weight: bolder;
+}
+.btn1{
+    background-color: skyblue;
+    color: black;
+    border: 2px solid black;
+    border-radius: 25px;
+    width: 500px;
+    height: 50px;
+    margin-bottom: 80px;
+    font-weight: bolder;
+}
+.newcard1{
+    width: 500px;
+    height: 150px;
+    background-color: violet;
+    border: 2px solid black;
+    position:absolute;
+    left: 676px;
+    top: 228px;
+    border-radius:20px;
+}
+ .newcard2 {
+    width: 500px;
+    height: 150px;
+    background-color: skyblue;
+    border: 2px solid black;
+    position:absolute;
+    top: 228px;
+    left:82px;
+    bottom :250px;
+    border-radius:20px;
+}
